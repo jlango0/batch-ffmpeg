@@ -1,6 +1,8 @@
+# batch-ffmpeg.sh
+
 Coming from macOS, I've always handled converting .wav to .mp3 via the iTunes / Music.app GUI.
 
-Since that's not an option in Linux (Xubuntu 24.04, specifically), I started using ffmpeg.
+Since that's not an option in Linux (Xubuntu 24.04, specifically), I started using [ffmpeg](https://github.com/FFmpeg).
 
 But manually converting one file at a time was inefficient, so I read some about Bash scripting and put this together.
 
